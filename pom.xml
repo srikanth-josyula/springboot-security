@@ -38,5 +38,7 @@
 		</plugins>
 	</build>
 <modules>  <module>springboot-security-jwt</module>
+    <module>spring-security-saml-okta</module>
+    <module>spring-security-normal</module>
   </modules>
 </project>
